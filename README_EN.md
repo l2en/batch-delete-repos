@@ -19,6 +19,6 @@
 2. 📖 Input your token.
    ![](/snapshots/token.png)
 
-3. 📖 Input the repositories to be deleted at `repos.txt`.
+3. 📖 Input the repositories to be deleted at `main/repos.txt`.
 
 4. 💻 run `node index.js`
